@@ -12,8 +12,8 @@
 <p>
  
   <ul>
-    <li>Entity Framework Core (работа с данными)</li>
-    <li>SQLite (встроенная СУБД)</li>
+    <li>Entity Framework Core </li>
+    <li>SQLite</li>
   </ul>
 </p>
 
